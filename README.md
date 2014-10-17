@@ -7,4 +7,4 @@ A malloc package which implements malloc, realloc, calloc, free with segregated 
 A basic HTTP proxy with caching that supports concurrent HTTP/1.0 GET requests using POSIX Sockets/Threads
 
 ### Simple Shell
-A small shell which explores the usage of signals
+A small shell which explores the usage of signals and process control
